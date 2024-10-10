@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on DinamoDB and AWS Data pipeline with AWS Glue!
+I’m currently working on Deep Learning with PyTorch!
 
 <!--
 **GMarde/GMarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
